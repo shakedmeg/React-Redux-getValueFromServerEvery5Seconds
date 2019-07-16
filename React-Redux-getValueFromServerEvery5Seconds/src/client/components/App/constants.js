@@ -1,0 +1,7 @@
+const AppActionsConstants = {
+    GET_SERVER_DATA: 'GET_SERVER_DATA',
+    GET_SERVER_DATA_SUCCESS: 'GET_SERVER_DATA_SUCCESS',
+    GET_SERVER_DATA_FAILURE: 'GET_SERVER_DATA_FAILURE'
+};
+
+export default AppActionsConstants
